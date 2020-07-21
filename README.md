@@ -1,4 +1,4 @@
-
+### Translation
 This package allows you to manage your website translation via admin.
 You can create new language,Keys and values, then publish it and write it in language files.
 
@@ -44,8 +44,10 @@ return [
 ## Usage
 .....
 
-
-
+## Publish styles
+```sh
+php artisan vendor:publish --provider="root_rzbn\translate\ServiceProvider" --tag="assets"
+```
 ## Contributing
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Security
