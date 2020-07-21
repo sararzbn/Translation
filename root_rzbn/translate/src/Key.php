@@ -1,6 +1,6 @@
 <?php
 
-namespace Sara\Translate;
+namespace root_rzbn\translate;
 
 use Illuminate\Database\Eloquent\Model;
 

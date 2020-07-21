@@ -1,11 +1,11 @@
 <?php
 
-namespace Sara\Translate\Http\Controllers;
+namespace root_rzbn\translate\Http\Controllers;
 use App\Http\Controllers\Controller;
 
 use Illuminate\Http\Request;
-use Sara\Translate\Key;
-use Sara\Translate\Language;
+use root_rzbn\translate\Key;
+use root_rzbn\translate\Language;
 
 class KeyController extends Controller
 {

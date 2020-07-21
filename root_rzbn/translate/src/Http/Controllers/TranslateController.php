@@ -1,12 +1,12 @@
 <?php
 
-namespace Sara\Translate\Http\Controllers;
+namespace root_rzbn\translate\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 
 use Illuminate\Http\Request;
 
-use Sara\Translate\Translation;
+use root_rzbn\translate\Translation;
 
 class TranslateController extends Controller
 {
