@@ -1,6 +1,5 @@
 ### Translation
-This package allows you to manage your website translation via admin.
-You can create new language,Keys and values, then publish it and write it in language files.
+This package allows you to manage your website translation via admin. You can create a new language, Keys and values, then publish it and write it in language files.
 
 ### Installation
 ```shell
@@ -8,7 +7,7 @@ composer require root_rzbn/translation
 ```
 Laravel 7 uses Package Auto-Discovery, so you are not required to add ServiceProvider manually.
 
-### Laravel 5.5+
+### Laravel 7+
 If you don't use Auto-Discovery, add the ServiceProvider to the providers array in ``config/app.php`` file
 ```php
    root_rzbn\translate\TranslatorServiceProvider::class,
