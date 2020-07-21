@@ -1,0 +1,15 @@
+{
+    "name": "sara/translator",
+    "description": "Admin can translate everything.",
+    "type": "projects",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sara Rouzbahani",
+            "email": "srouzbahani35@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
+
